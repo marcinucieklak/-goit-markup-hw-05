@@ -1,13 +1,14 @@
 /* Zadanie domowe studentów #5 */
 
 /*normalizator stylów 
-@import 'node_modules/modern-normalize/modern-normalize.css';*/
+@import 'node_modules/modern-normalize/modern-normalize.css';
+@import '~@csstools/normalize.css';*/
 
 /*czciąki */
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@700&family=Roboto:wght@400;500;700;900&display=swap');
 
 :root {
-    --base-color-blue: #2196F3;
+    --base-color-blue: #2196F3; 
     --base-color-black: #000000;
     --base-color-white: #FFFFFF;
     --base-color-darck-grey:#212121;
